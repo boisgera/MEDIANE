@@ -44,6 +44,9 @@ Learn by doing: into Jupyter notebooks:
   - [How Hard Is It to Generate a 10X Return on an Investment?] 
     ("Better Everyday" blog, by Rob Go).
 
+  - [Pour une Révolution Fiscale]
+    by Camille Landais, Thomas Piketty and Emmanuel Saez.
+
   - [Python Imaging Library tutorial]
 
 ### Use Jupyter Notebook
@@ -75,8 +78,7 @@ Learn by doing: into Jupyter notebooks:
 [A gallery of interesting Jupyter Notebooks]: https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 [How Hard Is It to Generate a 10X Return on an Investment?]: https://bettereveryday.vc/how-hard-is-it-to-generate-a-10x-return-on-an-investment-9c1656d6c3af
 [Python Imaging Library tutorial]: http://effbot.org/imagingbook/introduction.htm
-[Quick Markdown Reference]: http://commonmark.org/help/
-
+[Pour une Révolution Fiscale]: http://www.revolution-fiscale.fr/
 
 [Install the Jupyter Notebook]: http://jupyter.org/install.html
 [Install JupyterHub]: https://github.com/jupyterhub/jupyterhub
