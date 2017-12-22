@@ -34,7 +34,7 @@ Learn by doing: into Jupyter notebooks:
   - [Install JupyterHub] on a server to support multiple users 
     (or [ask politely your favorite I.T. guy to do it][HJ]).
 
-  - Try the [Microsoft Azure Notebooks]: Host Jupyter notebooks in the cloud; 
+  - Try the [Microsoft Azure Notebooks] to host Jupyter notebooks in the cloud; 
     requires a (free) Microsoft account.
 
   - [Binder] (beta): turn a [GitHub] repository 
