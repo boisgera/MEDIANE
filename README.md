@@ -37,7 +37,8 @@ The site of [CommonMark] (a standard for this language) hosts:
 
 ### Notebookify Everything!
 
-Many types of documents can ... 
+Many types of documents can benefit from a "translation" into a notebook.
+For example, consider:
 
   - [How Hard Is It to Generate a 10X Return on an Investment?] 
     by Rob Go, "Better Everyday".  
@@ -49,6 +50,9 @@ Many types of documents can ...
 
   - [Python Imaging Library tutorial], by Fredrik Lundh, <http://effbot.org>.  
     *Software documentation.*
+
+Try to make notebooks out of these documents and 
+think how the notebooks features may improve the originals.
 
 ### Use Jupyter Notebooks (Like a Pro)
 
