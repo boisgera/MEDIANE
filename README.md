@@ -35,7 +35,7 @@ The site of [CommonMark] (a standard for this language) hosts:
   - a [Markdown Tutorial]: mini-course with exercises
 
 
-### Notebookify
+### Notebookify Everything!
 
 [A gallery of interesting Jupyter Notebooks]
 
