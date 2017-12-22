@@ -45,7 +45,7 @@ To learn to master notebooks
   - [Pour une Révolution Fiscale]
     by Camille Landais, Thomas Piketty and Emmanuel Saez.
 
-  - [Python Imaging Library tutorial], by Fredrik Lundh, <effbot.org>.
+  - [Python Imaging Library tutorial], by Fredrik Lundh, <http://effbot.org>.
 
 ### Use Jupyter Notebook
 
