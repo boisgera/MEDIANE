@@ -9,6 +9,8 @@
 
 ### Markdown 
 
+Markdown is the syntax
+
 The site of [CommonMark] (a "standard" for Markdown) hosts the:
 
   - [Markdown Quick Reference]: cheat sheet
@@ -29,13 +31,14 @@ Learn by doing: into Jupyter notebooks:
 
   - [Install the Jupyter Notebook] on your computer.
 
-  - [Install JupyterHub]: a multi-user server for Jupyter notebooks.
+  - [Install JupyterHub] on a server to support multiple users 
+    (or [ask politely your favorite I.T. guy to do it][HJ]).
 
-  - Try the [Microsoft Azure Notebooks]: Hosts Jupyter notebooks on 
-    Requires a (free) Microsoft account
+  - Try the [Microsoft Azure Notebooks]: Host Jupyter notebooks in the cloud; 
+    requires a (free) Microsoft account.
 
   - [Binder] (beta): turn a [GitHub] repository 
-    into a collection of interactive notebooks
+    into a collection of interactive notebooks; also in the cloud.
 
 
 [Binder]: https://mybinder.org/
@@ -53,5 +56,6 @@ Learn by doing: into Jupyter notebooks:
 
 [Install the Jupyter Notebook]: http://jupyter.org/install.html
 [Install JupyterHub]: https://github.com/jupyterhub/jupyterhub
+[HJ]: https://i.ytimg.com/vi/eBh5LBftgpY/maxresdefault.jpg
 [Microsoft Azure Notebooks]: https://notebooks.azure.com/
 [GitHub]: https://github.com/
