@@ -40,8 +40,8 @@ The site of [CommonMark] (a standard for this language) hosts:
 Many types of documents can ... 
 
   - [How Hard Is It to Generate a 10X Return on an Investment?] 
-    by Rob Go, "Better Everyday".
-    *Essay on return on investment computations in venture capital.*
+    by Rob Go, "Better Everyday".  
+    *Essay on ROI computations in venture capital.*
 
   - [Pour une Révolution Fiscale] (in french)
     by Camille Landais, Thomas Piketty and Emmanuel Saez.  
