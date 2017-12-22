@@ -48,6 +48,8 @@ Learn by doing: into Jupyter notebooks:
     For example, [use this repository](https://mybinder.org/v2/gh/boisgera/MEDIANE/master).
 
 
+    [![](https://img.shields.io/badge/launch-binder-blue.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)
+
 
 [Try Jupyter!]: https://try.jupyter.org/ 
 [Project Jupyter]: http://jupyter.org/
