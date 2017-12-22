@@ -39,7 +39,9 @@ Learn by doing: into Jupyter notebooks:
 
   - [Binder] (beta): turn a [GitHub] repository 
     into a collection of interactive notebooks; also in the cloud.  
-    For example, start this repository: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)\
+    For example, start this repository: 
+
+    [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)
 
 
 [Binder]: https://mybinder.org/
