@@ -9,8 +9,8 @@ Jupyter Notebooks
 The project provides **Try Jupyter!**, 
 a perfect tool to get started with notebooks:
 
-  - It runs on your browser and t is hosted [in the cloud][Rackspace];
-    you don't have to install anything on your computer.
+  - It runs on your browser and t is hosted [in the cloud][Rackspace]
+    (you don't have to install anything on your computer).
 
   - It is free and doesn't require any registration.
 
