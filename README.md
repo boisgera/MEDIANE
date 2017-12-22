@@ -18,7 +18,7 @@ that is perfect to get started:
 
   - It doesn't keep your data.
 
-Try "Try Jupyter!":
+Launch "Try Jupyter!":
 
 [![](https://img.shields.io/badge/launch-Try%20Jupyter!-blue.svg)][Try Jupyter!]
 
