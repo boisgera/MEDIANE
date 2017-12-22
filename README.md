@@ -8,7 +8,7 @@ Jupyter Notebooks
 
 [![](https://img.shields.io/badge/launch-Try%20Jupyter!-blue.svg)][Try Jupyter!]
 
-Inline: [![](https://img.shields.io/badge/launch-Try%20Jupyter!-blue.svg)][Try Jupyter!]
+
 
 ### Markdown 
 
