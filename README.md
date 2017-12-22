@@ -69,7 +69,7 @@ If you get serious about theis notebook thing, consider the following options:
   - Try the [Microsoft Azure Notebooks] to host your Jupyter notebooks in the cloud; 
     requires a (free) Microsoft account.
 
-  - [Binder] (beta): interact with notebooks stored in a [GitHub] repository; 
+  - Use [Binder] (beta): interact with notebooks stored in a [GitHub] repository; 
     also in the cloud.  
 
     [![](https://img.shields.io/badge/launch-binder-blue.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)
