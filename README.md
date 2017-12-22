@@ -5,6 +5,17 @@ Jupyter Notebooks
 ### Discover Jupyter
 
 [Project Jupyter] is the homepage of the non-profit behind the Jupyter Notebook.
+The project provide **Try Jupyter!**, a deployment of the notebook application 
+that is perfect to get started:
+
+  - It is[hosted [in the cloud][Rackspace];
+    you don't have to install anything on your computer
+
+  - It is free and doesn't require any registration.
+
+  - It is *sandboxed* and *ephemeral*: you can't break anything
+    (or rather if you do, it doesn't matter) and the data that
+    you create is deleted shortly after the end of your session.
 
 [![](https://img.shields.io/badge/launch-Try%20Jupyter!-blue.svg)][Try Jupyter!]
 
@@ -51,8 +62,10 @@ Learn by doing: into Jupyter notebooks:
     [![](https://img.shields.io/badge/launch-binder-blue.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)
 
 
-[Try Jupyter!]: https://try.jupyter.org/ 
+
 [Project Jupyter]: http://jupyter.org/
+[Try Jupyter!]: https://try.jupyter.org/ 
+[Rackspace]: https://www.rackspace.com/
 
 [CommonMark]: http://commonmark.org/
 [Markdown Quick Reference]: http://commonmark.org/help/
