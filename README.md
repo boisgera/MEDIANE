@@ -59,7 +59,7 @@ think how you may improve on the originals!
 **Try Jupyter!** is nice to get started but has many limitations
 (to begin with, when too many people are using it, you won't be
 able to start it!). 
-If you get serious about theis notebook thing, consider the following options:
+If you get serious about this notebook thing, consider the following options:
 
   - [Install the Jupyter Notebook] on your computer.
 
