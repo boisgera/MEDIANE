@@ -14,9 +14,9 @@ that is perfect to get started:
   - It is free and doesn't require any registration.
 
   - You can't break anything
-    (or rather if you do, it doesn't matter) 
+    (or rather if you do, it doesn't matter).
 
-  - The data that you create is deleted shortly after the end of your session.
+  - It doesn't keep your data.
 
 [![](https://img.shields.io/badge/launch-Try%20Jupyter!-blue.svg)][Try Jupyter!]
 
