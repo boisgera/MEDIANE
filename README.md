@@ -3,9 +3,9 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)
 
-### [Project Jupyter]
+### Jupyter 
 
-Homepage of the non-profit behind the Jupyter Notebook.
+[Project Jupyter] is the homepage of the non-profit behind the Jupyter Notebook.
 
 ### Markdown 
 
@@ -17,11 +17,13 @@ The site of [CommonMark] (a "standard" for Markdown) hosts:
 
   - [Markdown Tutorial]: mini-course with exercises
 
-### "Notebookify"       
+### Notebookify
 
- 3. [How Hard Is It to Generate a 10X Return on an Investment?] -- Better Everyday blog, by Rob Go.
+Some online documents that you can may try to transform into Jupyter notebooks:
 
- 4. [Python Imaging Library tutorial]
+  - [How Hard Is It to Generate a 10X Return on an Investment?] -- Better Everyday blog, by Rob Go.
+
+  - [Python Imaging Library tutorial]
 
 
 
