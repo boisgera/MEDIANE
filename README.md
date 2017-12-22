@@ -37,7 +37,6 @@ The site of [CommonMark] (a standard for this language) hosts:
 
 ### Notebookify Everything!
 
-To learn to master notebooks
 
   - [How Hard Is It to Generate a 10X Return on an Investment?] 
     by Rob Go, "Better Everyday" blog.
@@ -47,7 +46,7 @@ To learn to master notebooks
 
   - [Python Imaging Library tutorial], by Fredrik Lundh, <http://effbot.org>.
 
-### Use Jupyter Notebook
+### Use Jupyter Notebooks (Like a Pro)
 
   - [Install the Jupyter Notebook] on your computer.
 
