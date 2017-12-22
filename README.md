@@ -37,15 +37,18 @@ The site of [CommonMark] (a standard for this language) hosts:
 
 ### Notebookify Everything!
 
-To see what notebooks can do, get some 
+Many types of documents can ... 
 
   - [How Hard Is It to Generate a 10X Return on an Investment?] 
-    by Rob Go, "Better Everyday" blog.
+    by Rob Go, "Better Everyday" 
+    (essay on return on investment computations in venture capital).
 
   - [Pour une Révolution Fiscale] (in french)
-    by Camille Landais, Thomas Piketty and Emmanuel Saez.
+    by Camille Landais, Thomas Piketty and Emmanuel Saez
+    (essay about income tax in France; includes a simulator) .
 
   - [Python Imaging Library tutorial], by Fredrik Lundh, <http://effbot.org>.
+    (software documentation)
 
 ### Use Jupyter Notebooks (Like a Pro)
 
