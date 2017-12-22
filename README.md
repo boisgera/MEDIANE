@@ -37,11 +37,12 @@ The site of [CommonMark] (a standard for this language) hosts:
 
 ### Notebookify Everything!
 
+To see what notebooks can do, get some 
 
   - [How Hard Is It to Generate a 10X Return on an Investment?] 
     by Rob Go, "Better Everyday" blog.
 
-  - [Pour une Révolution Fiscale]
+  - [Pour une Révolution Fiscale] (in french)
     by Camille Landais, Thomas Piketty and Emmanuel Saez.
 
   - [Python Imaging Library tutorial], by Fredrik Lundh, <http://effbot.org>.
