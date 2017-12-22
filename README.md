@@ -13,9 +13,10 @@ that is perfect to get started:
 
   - It is free and doesn't require any registration.
 
-  - It is *sandboxed* and *ephemeral*: you can't break anything
-    (or rather if you do, it doesn't matter) and the data that
-    you create is deleted shortly after the end of your session.
+  - You can't break anything
+    (or rather if you do, it doesn't matter) 
+
+  - The data that you create is deleted shortly after the end of your session.
 
 [![](https://img.shields.io/badge/launch-Try%20Jupyter!-blue.svg)][Try Jupyter!]
 
