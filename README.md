@@ -8,7 +8,7 @@ Jupyter Notebooks
 The project provides **Try Jupyter!**, a deployment of the notebook application 
 that is perfect to get started:
 
-  - It ishosted [in the cloud][Rackspace];
+  - It is hosted [in the cloud][Rackspace];
     you don't have to install anything on your computer.
 
   - It is free and doesn't require any registration.
