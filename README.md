@@ -37,11 +37,10 @@ Learn by doing: into Jupyter notebooks:
   - Try the [Microsoft Azure Notebooks] to host your Jupyter notebooks in the cloud; 
     requires a (free) Microsoft account.
 
-  - [Binder] (beta): turn a [GitHub] repository 
-    into a collection of interactive notebooks; also in the cloud.  
-    For example, start this repository: 
+  - [Binder] (beta): interact with notebooks stored in a [GitHub] repository; 
+    also in the cloud.  
+    For example, [use this repository]((https://mybinder.org/v2/gh/boisgera/MEDIANE/master).
 
-    [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)
 
 
 [Binder]: https://mybinder.org/
