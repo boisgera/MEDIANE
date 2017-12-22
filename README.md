@@ -51,8 +51,8 @@ For example, consider:
   - [Python Imaging Library tutorial], by Fredrik Lundh, <http://effbot.org>.  
     *Software documentation.*
 
-Try to make notebooks out of these documents and 
-think how the notebooks features may improve the originals.
+Try to make notebooks out of these documents then
+think how you may improve on the originals!
 
 ### Use Jupyter Notebooks (Like a Pro)
 
