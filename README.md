@@ -1,9 +1,9 @@
 
-Start in [Binder]:
+### Start in [Binder]:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)
 
-References:
+### References
 
  1. [Project Jupyter]: Homepage of the non-profit behind the Jupyter Notebook.
 
