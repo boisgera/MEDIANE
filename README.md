@@ -21,7 +21,10 @@ The site of [CommonMark] (a "standard" for this language) hosts:
 
   - a [Markdown Tutorial]: mini-course with exercises
 
+
 ### Notebookify
+
+[A gallery of interesting Jupyter Notebooks]
 
 Learn by doing: into Jupyter notebooks:
 
@@ -54,6 +57,7 @@ Learn by doing: into Jupyter notebooks:
 [Markdown Dingus]: http://spec.commonmark.org/dingus/
 [Markdown Tutorial]: http://commonmark.org/help/tutorial/
 
+[A gallery of interesting Jupyter Notebooks]: https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 [How Hard Is It to Generate a 10X Return on an Investment?]: https://bettereveryday.vc/how-hard-is-it-to-generate-a-10x-return-on-an-investment-9c1656d6c3af
 [Python Imaging Library tutorial]: http://effbot.org/imagingbook/introduction.htm
 [Quick Markdown Reference]: http://commonmark.org/help/
