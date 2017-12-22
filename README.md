@@ -48,6 +48,11 @@ The site of [CommonMark] (a standard for this language) hosts:
 
 ### Use Jupyter Notebooks (Like a Pro)
 
+**Try Jupyter!** is nice to get started but has many limitations
+(to begin with, when too many people are using it, you won't be
+able to start it!). 
+If you get serious about the notebook things, consider the following options:
+
   - [Install the Jupyter Notebook] on your computer.
 
   - [Install JupyterHub] on a server to support multiple users 
