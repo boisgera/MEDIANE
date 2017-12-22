@@ -1,11 +1,12 @@
 
-### Start in [Binder]
+Jupyter Notebooks
+================================================================================
 
-
-
-### Discover Jupyter Notebooks
+### Discover Jupyter
 
 [Project Jupyter] is the homepage of the non-profit behind the Jupyter Notebook.
+
+[![][https://img.shields.io/badge/launch-Try%20Jupyter!-blue.svg]][Try Jupyter!]
 
 ### Markdown 
 
@@ -44,7 +45,7 @@ Learn by doing: into Jupyter notebooks:
 
 
 
-[Binder]: https://mybinder.org/
+[Try Jupyter!]: https://try.jupyter.org/ 
 [Project Jupyter]: http://jupyter.org/
 
 [CommonMark]: http://commonmark.org/
@@ -61,4 +62,5 @@ Learn by doing: into Jupyter notebooks:
 [Install JupyterHub]: https://github.com/jupyterhub/jupyterhub
 [HJ]: https://i.ytimg.com/vi/eBh5LBftgpY/maxresdefault.jpg
 [Microsoft Azure Notebooks]: https://notebooks.azure.com/
+[Binder]: https://mybinder.org/
 [GitHub]: https://github.com/
