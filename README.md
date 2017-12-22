@@ -6,8 +6,7 @@ Jupyter Notebooks
 
 [Project Jupyter] is the homepage of the non-profit behind the Jupyter Notebook.
 
-The project provides **Try Jupyter!**, a deployment of the notebook application 
-that is perfect to get started:
+The project provides **Try Jupyter!** a tool that is perfect to get started with notebooks:
 
   - It is hosted [in the cloud][Rackspace];
     you don't have to install anything on your computer.
