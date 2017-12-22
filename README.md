@@ -23,7 +23,8 @@ The site of [CommonMark] (a "standard" for Markdown) hosts the:
 
 Learn by doing: into Jupyter notebooks:
 
-  - [How Hard Is It to Generate a 10X Return on an Investment?] -- Better Everyday blog, by Rob Go.
+  - [How Hard Is It to Generate a 10X Return on an Investment?] 
+    ("Better Everyday" blog, by Rob Go).
 
   - [Python Imaging Library tutorial]
 
