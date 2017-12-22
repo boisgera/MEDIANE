@@ -8,6 +8,8 @@ Jupyter Notebooks
 
 [![](https://img.shields.io/badge/launch-Try%20Jupyter!-blue.svg)][Try Jupyter!]
 
+Inline: [![](https://img.shields.io/badge/launch-Try%20Jupyter!-blue.svg)][Try Jupyter!]
+
 ### Markdown 
 
 The "document cells" of notebooks use the Markdown syntax.
