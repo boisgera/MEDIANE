@@ -7,13 +7,13 @@
 
 Homepage of the non-profit behind the Jupyter Notebook.
 
-### [CommonMark]
+### Markdown 
 
-A specification of the Markdown syntax.
+The site of [CommonMark] (a "standard" for Markdown) hosts:
 
-  - [Quick Markdown Reference]: cheat sheet
+  - [Markdown Quick Reference]: cheat sheet
 
-  - [CommonMark Dingus]: online Markdown editor
+  - [Markdown Dingus]: online Markdown editor
 
   - [Markdown Tutorial]: mini-course with exercises
 
@@ -27,7 +27,12 @@ A specification of the Markdown syntax.
 
 [Binder]: https://mybinder.org/
 [Project Jupyter]: http://jupyter.org/
+
 [CommonMark]: http://commonmark.org/
+[Markdown Quick Reference]: http://commonmark.org/help/
+[Markdown Dingus]: http://spec.commonmark.org/dingus/
+[Markdown Tutorial]: http://commonmark.org/help/tutorial/
+
 [How Hard Is It to Generate a 10X Return on an Investment?]: https://bettereveryday.vc/how-hard-is-it-to-generate-a-10x-return-on-an-investment-9c1656d6c3af
-[Markdown Reference]: http://commonmark.org/help/
 [Python Imaging Library tutorial]: http://effbot.org/imagingbook/introduction.htm
+[Quick Markdown Reference]: http://commonmark.org/help/
