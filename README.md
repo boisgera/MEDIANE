@@ -39,7 +39,7 @@ Learn by doing: into Jupyter notebooks:
 
   - [Binder] (beta): interact with notebooks stored in a [GitHub] repository; 
     also in the cloud.  
-    For example, [use this repository]((https://mybinder.org/v2/gh/boisgera/MEDIANE/master).
+    For example, [use this repository](https://mybinder.org/v2/gh/boisgera/MEDIANE/master).
 
 
 
