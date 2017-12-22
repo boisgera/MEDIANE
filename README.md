@@ -13,7 +13,7 @@ Jupyter Notebooks
 ### Markdown 
 
 The "document cells" of notebooks use the Markdown syntax.
-The site of [CommonMark] (a "standard" for this language) hosts:
+The site of [CommonMark] (a standard for this language) hosts:
 
   - a [Markdown Quick Reference]: cheat sheet
 
