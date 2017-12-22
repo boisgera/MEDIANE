@@ -37,17 +37,15 @@ The site of [CommonMark] (a standard for this language) hosts:
 
 ### Notebookify Everything!
 
-[A gallery of interesting Jupyter Notebooks]
-
-Learn by doing: into Jupyter notebooks:
+To learn to master notebooks
 
   - [How Hard Is It to Generate a 10X Return on an Investment?] 
-    ("Better Everyday" blog, by Rob Go).
+    by Rob Go, "Better Everyday" blog.
 
   - [Pour une Révolution Fiscale]
     by Camille Landais, Thomas Piketty and Emmanuel Saez.
 
-  - [Python Imaging Library tutorial]
+  - [Python Imaging Library tutorial], by Fredrik Lundh, effbot.org>.
 
 ### Use Jupyter Notebook
 
