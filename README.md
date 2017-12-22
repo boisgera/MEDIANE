@@ -5,7 +5,7 @@ Jupyter Notebooks
 ### Discover Jupyter
 
 [Project Jupyter] is the homepage of the non-profit behind the Jupyter Notebook.
-The project provide **Try Jupyter!**, a deployment of the notebook application 
+The project provides **Try Jupyter!**, a deployment of the notebook application 
 that is perfect to get started:
 
   - It ishosted [in the cloud][Rackspace];
