@@ -3,11 +3,15 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)
 
-### References
+### [Project Jupyter]
 
- 1. [Project Jupyter]: Homepage of the non-profit behind the Jupyter Notebook.
+Homepage of the non-profit behind the Jupyter Notebook.
 
- 2. [CommonMark]
+ 2. [CommonMark]: A specification of Markdown.
+
+    See also:
+
+       
 
  3. [How Hard Is It to Generate a 10X Return on an Investment?] -- Better Everyday blog, by Rob Go.
 
