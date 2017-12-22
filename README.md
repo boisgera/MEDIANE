@@ -3,7 +3,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)
 
-### Discover Jupyter 
+### Discover Jupyter Notebooks
 
 [Project Jupyter] is the homepage of the non-profit behind the Jupyter Notebook.
 
