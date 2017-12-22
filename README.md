@@ -6,7 +6,7 @@ Jupyter Notebooks
 
 [Project Jupyter] is the homepage of the non-profit behind the Jupyter Notebook.
 
-[![][https://img.shields.io/badge/launch-Try%20Jupyter!-blue.svg]][Try Jupyter!]
+[![](https://img.shields.io/badge/launch-Try%20Jupyter!-blue.svg)][Try Jupyter!]
 
 ### Markdown 
 
