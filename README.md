@@ -1,7 +1,7 @@
 
 ### Start in [Binder]
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)
+
 
 ### Discover Jupyter Notebooks
 
@@ -9,7 +9,7 @@
 
 ### Markdown 
 
-Markdown is the syntax
+The "document cells" of notebooks use the Markdown syntax.
 
 The site of [CommonMark] (a "standard" for Markdown) hosts the:
 
@@ -34,11 +34,12 @@ Learn by doing: into Jupyter notebooks:
   - [Install JupyterHub] on a server to support multiple users 
     (or [ask politely your favorite I.T. guy to do it][HJ]).
 
-  - Try the [Microsoft Azure Notebooks] to host Jupyter notebooks in the cloud; 
+  - Try the [Microsoft Azure Notebooks] to host your Jupyter notebooks in the cloud; 
     requires a (free) Microsoft account.
 
   - [Binder] (beta): turn a [GitHub] repository 
-    into a collection of interactive notebooks; also in the cloud.
+    into a collection of interactive notebooks; also in the cloud.  
+    For example, start this repository: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/boisgera/MEDIANE/master)\
 
 
 [Binder]: https://mybinder.org/
