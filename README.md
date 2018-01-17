@@ -2,6 +2,16 @@
 Jupyter Notebooks
 ================================================================================
 
+### Introduction
+
+Jupyter notebooks are interactive documents that have a great potential to
+improve the learning process. If you are not familiar at all with notebooks,
+you may be interested by Bret Victor's take on [Explorable Explanations]
+and you will get a feeling of what notebooks can bring.
+
+[Explorable Explanations]: http://worrydream.com/ExplorableExplanations/
+
+
 ### Discover Jupyter
 
 [Project Jupyter] is the homepage of the non-profit behind the Jupyter Notebook.
